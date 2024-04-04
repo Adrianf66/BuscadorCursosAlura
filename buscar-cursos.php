@@ -18,3 +18,6 @@ foreach ($cursos as $curso){
 }
 $teste = 1;
 echo $teste;
+
+$teste2 = 3;
+echo "Isso é uma alteração" . $teste2;
